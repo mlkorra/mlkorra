@@ -1,16 +1,18 @@
-### Hi there 👋
+### H, I am Rahul Dev <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**mlkorra/mlkorra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=mlkorra&color=blue)
 
-Here are some ideas to get you started:
+I am working as a Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+#### Few things about me:
+- 🔭 I’m currently working on Quesion Generation.
+- 🌱 I’m currently learning about LLMs.
+- 👯 I’m looking to collaborate on NLP Projects.
+- 📫 How to reach me: DM me on [Twitter](https://twitter.com/mlkorra). 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I use Movie's Release Dates as my memory checkpoint.
+
+
+[![Dev's github stats](https://github-readme-stats.vercel.app/api?username=mlkorra&hide=stars&show_icons=true&count_private=true&include_all_commits=false)](https://github.com/anuraghazra/github-readme-stats)
