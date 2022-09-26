@@ -7,7 +7,7 @@ I am working as a Data Scientist.
 <br/>
 
 #### Few things about me:
-- 🔭 I’m currently working on Quesion Generation.
+- 🔭 I’m currently working on Question Generation.
 - 🌱 I’m currently learning about LLMs.
 - 👯 I’m looking to collaborate on NLP Projects.
 - 📫 How to reach me: DM me on [Twitter](https://twitter.com/mlkorra). 
