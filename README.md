@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=mlkorra&color=blue)
 
-I am working as a Data Scientist.
+I am working as a Machine Learning Engineer.
 
 <br/>
 
 #### Few things about me:
-- 🔭 I’m currently working on Question Generation.
+- 🔭 I’m currently working on RAGs.
 - 🌱 I’m currently learning about LLMs.
 - 👯 I’m looking to collaborate on NLP Projects.
 - 😄 Pronouns: He/His
